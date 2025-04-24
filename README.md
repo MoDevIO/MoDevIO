@@ -2,13 +2,13 @@
 
 ###
 
-<p align="left">... and Student from Germany</p>
+<p align="left">... a Student</p>
 
 #
 
 ###
 
-<p align="left">What I can do:</p>
+<p align="left">What I do in my freetime:</p>
 
 ###
 
