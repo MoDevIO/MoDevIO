@@ -2,12 +2,6 @@
 
 ###
 
-<p align="left">... a Student</p>
-
-#
-
-###
-
 <p align="left">What I do in my freetime:</p>
 
 ###
