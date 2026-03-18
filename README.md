@@ -28,6 +28,6 @@
 
 ###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoDevIO&show_icons=true&theme=gruvbox)
+![MoDevIO's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoDevIO&show_icons=true&theme=gruvbox)
 
 ###
