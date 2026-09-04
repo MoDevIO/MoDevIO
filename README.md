@@ -26,3 +26,4 @@ I'm a student developer who enjoys building things across different areas of sof
 
 My interests range from web development and developer tools to Linux systems and open-source projects. Most of my knowledge comes from experimenting with my own projects.
 
+<img src="./activity.svg">
