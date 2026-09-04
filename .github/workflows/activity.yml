@@ -28,7 +28,7 @@ jobs:
           cache: pnpm
 
       - name: Generate activity SVG
-        uses: MoDevIO/github-wakatime-activity@main
+        uses: MoDevIO/github-wakatime-activity@master
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           wakatime-token: ${{ secrets.WAKATIME_TOKEN }}
