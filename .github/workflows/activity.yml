@@ -24,7 +24,7 @@ jobs:
       - name: Generate activity SVG
         uses: MoDevIO/github-wakatime-activity@master
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.GITHUB_ACTIVITY_TOKEN }}
           wakatime-token: ${{ secrets.WAKATIME_TOKEN }}
           leetcode-username: ${{ secrets.LEETCODE_USERNAME }}
 
