@@ -2868,7 +2868,7 @@
         y="15"
         width="12"
         height="12"
-        fill="rgb(0, 0, 2)"
+        fill="rgb(0, 0, 3)"
         rx="2"
       />
 <rect
@@ -2892,7 +2892,7 @@
         y="60"
         width="12"
         height="12"
-        fill="rgb(0, 0, 0)"
+        fill="rgb(0, 179, 1)"
         rx="2"
       />
 <rect
